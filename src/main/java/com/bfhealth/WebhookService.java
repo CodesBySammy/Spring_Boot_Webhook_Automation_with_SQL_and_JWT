@@ -83,9 +83,9 @@ public class WebhookService {
         
         // Create request body
         Map<String, String> requestBody = new HashMap<>();
-        requestBody.put("name", "John Doe");
-        requestBody.put("regNo", "REG12347");
-        requestBody.put("email", "john@example.com");
+        requestBody.put("name", "Sameer Mahindru");
+        requestBody.put("regNo", "22BIT0531");
+        requestBody.put("email", "sameermahindru69@gmail.com");
         
         // Create headers
         HttpHeaders headers = new HttpHeaders();
@@ -156,3 +156,4 @@ public class WebhookService {
     }
 
 }
+
