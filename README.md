@@ -1,4 +1,4 @@
-# Bajaj Finserv Health - Java Qualifier
+# Spring Boot Webhook Automation with SQL & JWT
 
 This is a Spring Boot application that:
 1. Sends a POST request to generate a webhook on startup
